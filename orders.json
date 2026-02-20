@@ -1,0 +1,15 @@
+[
+    {
+        "order_id": "06fe8bb8",
+        "username": "testuser",
+        "items": [
+            {
+                "product_id": "P1001",
+                "qty": 2,
+                "unit_price": 9.99
+            }
+        ],
+        "total": 19.98,
+        "timestamp": "2026-02-20 01:18:03"
+    }
+]

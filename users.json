@@ -1,0 +1,22 @@
+[
+    {
+        "username": "testuser",
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "user"
+    },
+    {
+        "username": "monish34",
+        "password": "e6757959da8eff84c42d4df125b44eb40143dff452afd56aea5cfa058f245028",
+        "role": "user"
+    },
+    {
+        "username": "monish777",
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "user"
+    },
+    {
+        "username": "okbro",
+        "password": "c0fb098a9c29606de8330a635f2bd932fb479f1c860c91b327631b729ee51662",
+        "role": "user"
+    }
+]

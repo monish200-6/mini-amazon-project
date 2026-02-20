@@ -1,0 +1,2 @@
+Mini Amazon Receipt
+{'order_id': 'b9301d7c', 'username': 'testuser', 'items': [{'product_id': 'P1001', 'qty': 2, 'unit_price': 9.99}], 'total': 19.98, 'timestamp': '2026-02-18 23:38:15'}

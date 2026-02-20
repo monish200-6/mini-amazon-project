@@ -1,0 +1,11 @@
+[
+    {
+        "username": "testuser",
+        "items": [
+            {
+                "product_id": "P1004",
+                "quantity": 16
+            }
+        ]
+    }
+]

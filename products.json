@@ -1,0 +1,62 @@
+[
+    {
+        "product_id": "P1001",
+        "name": "USB-C Cable",
+        "price": 9.99,
+        "stock": 28
+    },
+    {
+        "product_id": "P1002",
+        "name": "Wireless Mouse",
+        "price": 19.99,
+        "stock": 15
+    },
+    {
+        "product_id": "P1003",
+        "name": "Keypad",
+        "price": 20.99,
+        "stock": 19
+    },
+    {
+        "product_id": "P1004",
+        "name": "charger",
+        "price": 17.99,
+        "stock": 16
+    },
+    {
+        "product_id": "P1005",
+        "name": "digital alarm",
+        "price": 1.99,
+        "stock": 35
+    },
+    {
+        "product_id": "P1006",
+        "name": "dual camera drone",
+        "price": 20.99,
+        "stock": 15
+    },
+    {
+        "product_id": "P1007",
+        "name": "electric razor",
+        "price": 12.99,
+        "stock": 11
+    },
+    {
+        "product_id": "P1008",
+        "name": "wireless earphones",
+        "price": 18.99,
+        "stock": 34
+    },
+    {
+        "product_id": "P1009",
+        "name": "portable light",
+        "price": 7.99,
+        "stock": 8
+    },
+    {
+        "product_id": "P1010",
+        "name": "electric guitar",
+        "price": 27.99,
+        "stock": 16
+    }
+]
